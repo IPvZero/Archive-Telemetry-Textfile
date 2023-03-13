@@ -2,4 +2,3 @@ show ip interface brief
 show version
 show ip ospf neighbor
 show logging
-show cdp neighbor
